@@ -12,12 +12,7 @@
             lstResult.Items.Add("Number is " & num ^ 2)
             num = num + 1
 
-
-
         Loop
-
-
-        lstResult.Items.Add("Not implemented yet")
 
     End Sub
 End Class
